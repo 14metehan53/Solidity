@@ -18,4 +18,12 @@ contract HelloWorld {
         return helloMessage2;
     }
     /* output : Merhaba Dunya! */
+    
+    // Hello World 3
+    
+    function helloWorld3() public pure returns(string memory) {
+        return "Hello World!";
+    }
+    /* output : Merhaba Dunya! */
+
 }
